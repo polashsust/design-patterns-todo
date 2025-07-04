@@ -43,6 +43,7 @@ A modern, full-stack Laravel 12 + Vue 3 (Vite + Inertia.js) demo app to manage T
 
 ### Filter
 ![Filter](screenshots/filter.jpg)
+![Filter](screenshots/filter2.jpg)
 
 ---
 
