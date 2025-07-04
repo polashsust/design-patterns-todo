@@ -1,4 +1,4 @@
-# 📝 Laravel + Vue 3 + Vite + Inertia To-Do Web App
+# 📝 Laravel + Vue 3 + Vite + Inertia + Design Patterns To-Do Web App
 
 _A modern, full-stack Laravel 12 + Vue 3 (Vite + Inertia.js) task manager with authentication, categories, clean architecture and design patterns. Features include a dedicated service layer, category-aware tasks, flexible filtering, and a beautiful UI._
 
