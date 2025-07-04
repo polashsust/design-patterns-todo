@@ -21,13 +21,13 @@ A modern, full-stack Laravel 12 + Vue 3 (Vite + Inertia.js) demo app to manage T
 ![Register Page](screenshots/register.jpg)
 
 ### Login Page
-![Login Page](screenshots/login.jpg)
+![Login Page](screenshots/loginpage.jpg)
 
 ### After Login Dashboard
 ![Todos Dashboard](screenshots/dashboard.jpg)
 
 ### Todos Main
-![Todos Main](screenshots/todos.jpg)
+![Todos Main](screenshots/todo.jpg)
 
 ### Add Modal
 ![Add Modal](screenshots/add.jpg)
