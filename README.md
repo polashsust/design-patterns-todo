@@ -1,6 +1,6 @@
-# 📝 Laravel + Vue 3 + Vite + Inertia CRUD Todo App
+# 📝 Laravel + Vue 3 + Vite + Inertia To-Do Web App
 
-A modern, full-stack Laravel 12 + Vue 3 (Vite + Inertia.js) demo app to manage Todos, built with a clean service layer, category-aware tasks, flexible filtering, and beautiful UI.
+_A modern, full-stack Laravel 12 + Vue 3 (Vite + Inertia.js) task manager with authentication, categories, clean architecture and design patterns. Features include a dedicated service layer, category-aware tasks, flexible filtering, and a beautiful UI._
 
 ---
 
