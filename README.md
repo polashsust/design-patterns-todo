@@ -18,31 +18,31 @@ A modern, full-stack Laravel 12 + Vue 3 (Vite + Inertia.js) demo app to manage T
 ## 📸 Screenshots
 
 ### Register Page
-![Register Page](public/screenshots/register.jpg)
+![Register Page](screenshots/register.jpg)
 
 ### Login Page
-![Login Page](public/screenshots/login.jpg)
+![Login Page](screenshots/login.jpg)
 
 ### After Login Dashboard
-![Todos Dashboard](public/screenshots/dashboard.jpg)
+![Todos Dashboard](screenshots/dashboard.jpg)
 
 ### Todos Main
-![Todos Main](public/screenshots/todos.jpg)
+![Todos Main](screenshots/todos.jpg)
 
 ### Add Modal
-![Add Modal](public/screenshots/add.jpg)
+![Add Modal](screenshots/add.jpg)
 
 ### View Modal
-![View Modal](public/screenshots/view.jpg)
+![View Modal](screenshots/view.jpg)
 
 ### Edit Modal
-![Edit Modal](public/screenshots/edit.jpg)
+![Edit Modal](screenshots/edit.jpg)
 
 ### Delete Modal
-![Delete Modal](public/screenshots/delete.jpg)
+![Delete Modal](screenshots/delete.jpg)
 
 ### Filter
-![Filter](public/screenshots/filter.jpg)
+![Filter](screenshots/filter.jpg)
 
 ---
 
